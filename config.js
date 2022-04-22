@@ -1,4 +1,5 @@
 const config = {
+  plugins: [`gatsby-plugin-catch-links`],
   gatsby: {
     pathPrefix: '/',
     siteUrl: 'https://hasura.io',
@@ -47,8 +48,8 @@ const config = {
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: false,
     ignoreIndex: true,
-    title:
-      "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
+    // title:
+    //   "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
   },
   siteMetadata: {
     title: 'Gatsby Gitbook Boilerplate | Hasura',

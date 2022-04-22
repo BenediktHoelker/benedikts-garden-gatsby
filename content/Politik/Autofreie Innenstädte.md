@@ -1,0 +1,3 @@
+Autofreie Städte erhöhen die Attraktivität von Innenstädten und sorgen für [mehr Umsatz](https://goodnews-magazin.de/mehr-umsatz-durch-autofreie-strassen/). 
+
+In demjenigen Bereich der Friedrichstraße, der autofrei gemacht wurde, haben sich die Umsätze der Einzelhändler seitdem um [**65%** erhöht](https://www.berliner-zeitung.de/mensch-metropole/ueberraschende-erkenntnis-die-autofreie-friedrichstrasse-zieht-besucher-an-li.219255).
