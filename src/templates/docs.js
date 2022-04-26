@@ -131,6 +131,9 @@ export const pageQuery = graphql`
           relativePath
         }
       }
+      frontmatter {
+        tags
+      }
     }
     allMdx {
       edges {
