@@ -1,0 +1,1 @@
+Agora Energiewende erklären in [ihrem Video](https://www.youtube.com/watch?v=UixHyJO7zmg), wie die Energiewende bis 2045 umgesetzt werden kann.
