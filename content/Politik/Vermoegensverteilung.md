@@ -1,4 +1,8 @@
-### Vermögensverteilung
+---
+tags: [Vermögensverteilung]
+---
+
+# Vermögensverteilung
 
 Stand 2020
 
@@ -12,7 +16,7 @@ Die reichsten **0,1%** besitzen **20,4%**.
 
 ![](../Assets/Pasted%20image%2020220415203908.png)
 
-### Auswirkungen von [[Corona]]
+# Auswirkungen von [[Corona]]
 
 Die **zehn reichsten Personen** hierzulande konnten ihre Vermögen seit Beginn der Pandemie von rund **125 Milliarden auf etwa 223 Milliarden Euro** steigern. Dieser Zuwachs entspricht annähernd dem Gesamtvermögen der **ärmsten 40 Prozent**, also von **33 Millionen** Deutschen.
 

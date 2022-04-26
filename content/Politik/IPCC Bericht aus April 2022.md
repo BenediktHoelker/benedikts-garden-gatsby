@@ -1,4 +1,8 @@
-### Einordnung des [IPCC](IPCC.md) Berichts von April 2022
+---
+tags: [IPCC, Erderhitzung]
+---
+
+# Einordnung des [IPCC](IPCC.md) Berichts von April 2022
 
 > „Die Jury hat ihr Urteil gefällt und es ist ein verheerendes Urteil. Wir gehen auf eine unvorstellbare Welt zu.“ - Antonio Guterres zum [IPCC](IPCC.md)
 
@@ -8,7 +12,7 @@ Statt entsprechend 1,5 Grad Ziel zu reduzieren (blau), bleiben weltweite Emissio
 
 Jetzt bleibt: entschlossenes Handeln. Um jedes Zehntel Grad kämpfen. **Kosten für Erneuerbare sind in den letzten 10 Jahren um 85% gesunken**.
 
-### Handlungsoptionen entsprechend dem Bericht
+# Handlungsoptionen entsprechend dem Bericht
 
 ![](../Assets/image_1649539314388_0.png)
 
