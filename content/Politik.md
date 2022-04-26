@@ -1,3 +1,0 @@
-# Politik
-
-# Gesellschaft
